@@ -7,7 +7,7 @@ Featuring a custom evaluation dashboard built with Plotly and IPywidgets to allo
 ## 📊 Project Architecture
 ```
 ├── notebooks/
-│   └── ASHRAE_Forecasting_Dashboard.ipynb  # This main notebook
+│   └── 01_explore.ipynb  # This main notebook
 ├── data/                                    # Raw dataset (Not pushed to Git)
 │   ├── train.csv
 │   ├── building_metadata.csv
@@ -31,7 +31,7 @@ Featuring a custom evaluation dashboard built with Plotly and IPywidgets to allo
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ashrae-day-ahead-forecaster.git
+   git clone https://github.com/PraneethTeja15/building-energy-forecaster.git
    ```
 2. Open `ASHRAE_Forecasting_Dashboard.ipynb` in Google Colab or your local Jupyter instance.
 3. Run all cells to play with the interactive visualization dashboard.
